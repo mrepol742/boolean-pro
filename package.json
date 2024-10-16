@@ -1,0 +1,17 @@
+{
+  "name": "boolean-pro",
+  "description": "A npm pro package to get true and false values",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mrepol742/boolean-pro",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrepol742/boolean-pro"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["boolean", "true", "false"],
+  "author": "Melvin Jones Repol",
+  "license": "MIT"
+}
